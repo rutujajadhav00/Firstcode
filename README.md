@@ -7,3 +7,7 @@ This program takes 2 integer valuesand output sum of 2 numbers.
 example a=10,b=5
 output
 sum=15
+### subtract two number
+example a=2,b=2
+output
+0
